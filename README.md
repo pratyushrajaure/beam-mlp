@@ -63,7 +63,9 @@ ReLU activation is used in the hidden layers.
     ├── learning_curve.png
     ├── predicted_vs_true.png
     ├── error_histogram.png
-    └── three_beam_curves.png```
+    └── three_beam_curves.png
+
+```
 
 
 
