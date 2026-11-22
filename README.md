@@ -1,4 +1,4 @@
-\# Beam Deflection Prediction using MLP
+# Beam Deflection Prediction using MLP
 
 
 
@@ -6,7 +6,7 @@ A PyTorch-based Multi-Layer Perceptron (MLP) that predicts the deflection of a s
 
 
 
-\## Features
+## Features
 
 
 
@@ -34,7 +34,7 @@ vi) Generate plots to visualize model performance.
 
 
 
-\## Model Architecture
+## Model Architecture
 
 
 
@@ -46,7 +46,7 @@ ReLU activation is used in the hidden layers.
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -76,7 +76,7 @@ ReLU activation is used in the hidden layers.
 
 
 
-\## Requirements
+## Requirements
 
 
 
@@ -112,7 +112,7 @@ python -m pip install -r requirements.txt
 
 
 
-\## Usage
+## Usage
 
 
 
