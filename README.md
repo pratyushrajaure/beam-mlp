@@ -50,29 +50,20 @@ ReLU activation is used in the hidden layers.
 
 
 
+## Project Structure
+
 ```text
-
+.
 ├── beams.py
-
-├── generate\_data.py
-
+├── generate_data.py
 ├── train.py
-
-├── beam\_data.csv
-
-├── best\_model.pth
-
+├── beam_data.csv
+├── best_model.pth
 └── results/
-
-&#x20;   ├── learning\_curve.png
-
-&#x20;   ├── predicted\_vs\_true.png
-
-&#x20;   ├── error\_histogram.png
-
-&#x20;   └── three\_beam\_curves.png
-
-```
+    ├── learning_curve.png
+    ├── predicted_vs_true.png
+    ├── error_histogram.png
+    └── three_beam_curves.png```
 
 
 
